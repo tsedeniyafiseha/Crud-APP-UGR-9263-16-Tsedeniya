@@ -1,3 +1,7 @@
+#TSEDENIYA FISEHA - UGR/9263/16 - SECTION 2 
+
+
+
 # Smart News Digest
 
 A Flutter news app that fetches top headlines, supports search, favorites, and lets you create your own articles.
